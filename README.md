@@ -2,7 +2,7 @@
   <a href="">
     <picture>
       <source height="220" media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/nGEReZh.png">
-      <img height="200" alt="Helios" src="./HELIOS_LOGO.png" style="border-radius: 50%;">
+      <img height="200" alt="Helios" src="./HELIOS_LOGO.png" style="border-radius: 100%;">
     </picture>
   </a>
   <br>
@@ -13,9 +13,8 @@
 
 ## À propos du projet
 
-Helios est une boîte à outils tout-en-un, propulsée par Python, conçue pour simplifier le processus de collecte d'informations et de reconnaissance. Avec une interface conviviale et une suite de modules puissants, Helios vous permet d'explorer efficacement et rapidement des réseaux, des applications web et des configurations de sécurité.
-
-Que vous effectuiez des recherches, des évaluations de sécurité avec la bonne autorisation, ou que vous soyez simplement curieux au sujet des infrastructures réseau, Helios vous apporte une mine d'informations à portée de main, le tout réuni en un seul endroit.
+Helios est une boîte à outils tout-en-un, propulsée par Python, conçue pour simplifier le processus de collecte d'informations et de reconnaissance. Avec une interface conviviale et une suite de modules puissants.
+Helios vous apporte une mine d'informations à portée de main, le tout réuni en un seul endroit.
 
 ## ⚠️ AVERTISSEMENT : DÉCLARATION LÉGALE
 
@@ -36,7 +35,7 @@ pip install -r requirements.txt
 Une fois installé , vous pouvez lancer Helios comme ceci:
 
 ```bash
-python Helios.py
+python3 Helios.py
 ```
 
 ---
