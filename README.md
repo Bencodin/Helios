@@ -1,8 +1,8 @@
 <h1 align="center">
   <a href="">
     <picture>
-      <source height="220" media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/nGEReZh.png">
-      <img height="200" alt="Helios" src="./HELIOS_LOGO.png" style="border-radius: 100%;">
+      <source height="220" media="(prefers-color-scheme: white)" srcset="https://i.imgur.com/nGEReZh.png">
+      <img height="300" alt="Helios" src="./HELIOS_LOGO.png" style="border-radius: 100%;">
     </picture>
   </a>
   <br>
